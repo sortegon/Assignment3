@@ -1,3 +1,8 @@
+html * {
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+}
 body {
 	background-color:#ABEBC6;
 	color: #113311;
@@ -40,6 +45,7 @@ header {
 	color: #ABEBC6;
 	padding: 20px;
 	font-weight: bold;
+	margin-left: 160px;
 }
 h1 {
 	font-family: Arial, Helvetica, sans-serif;
